@@ -54,13 +54,13 @@ A detailed Excel-based analytics project on Amazon product reviews, discounts, a
 
 ---
 # 📸 Analysed File
-![Amazon Excel File ]([[./visuals/dashboard.png](https://drive.google.com/open?id=1q-A8Qgn8-FzPSAgxAtBy3jxJF2Qq7-Uj&usp=drive_fs)](https://docs.google.com/spreadsheets/d/1A7IxOkVsLMvPq_6UGROALpXFz5oO-j23?rtpof=true&usp=drive_fs))
+[🔗 Amazon Excel File](https://docs.google.com/spreadsheets/d/1A7IxOkVsLMvPq_6UGROALpXFz5oO-j23?rtpof=true&usp=drive_fs)
 
 ## 📸 Visuals & Dashboard
-![Amazon Cleaned]([[./visuals/dashboard.png](https://drive.google.com/open?id=1q-A8Qgn8-FzPSAgxAtBy3jxJF2Qq7-Uj&usp=drive_fs)](https://drive.google.com/open?id=14B_HgejHieAEUwH6hD68F-4KEodBONDU&usp=drive_fs))
-![Amazon Raw]([[./visuals/dashboard.png](https://drive.google.com/open?id=1q-A8Qgn8-FzPSAgxAtBy3jxJF2Qq7-Uj&usp=drive_fs)](https://drive.google.com/open?id=1P3Xdhudm1clYEXLDD3Z035e0j2iZUNpE&usp=drive_fs))
-![Amazon Pivot]([[./visuals/dashboard.png](https://drive.google.com/open?id=1q-A8Qgn8-FzPSAgxAtBy3jxJF2Qq7-Uj&usp=drive_fs)](https://drive.google.com/open?id=1HQRjkYsn-xpHnRzuRoCZaO1jMKZjPfAv&usp=drive_fs))
-![Amazon Product Dashboard]([./visuals/dashboard.png](https://drive.google.com/open?id=1q-A8Qgn8-FzPSAgxAtBy3jxJF2Qq7-Uj&usp=drive_fs))
+![Amazon Cleaned](https://drive.google.com/uc?export=view&id=1q-A8Qgn8-FzPSAgxAtBy3jxJF2Qq7-Uj)
+![Amazon Raw](https://drive.google.com/uc?export=view&id=1P3Xdhudm1clYEXLDD3Z035e0j2iZUNpE)
+![Amazon Pivot](https://drive.google.com/uc?export=view&id=1HQRjkYsn-xpHnRzuRoCZaO1jMKZjPfAv)
+![Amazon Product Dashboard](https://drive.google.com/uc?export=view&id=14B_HgejHieAEUwH6hD68F-4KEodBONDU)
 
 ### 🧠 Key Highlights from Dashboard:
 
