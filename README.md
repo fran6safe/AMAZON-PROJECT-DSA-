@@ -46,7 +46,7 @@ A detailed Excel-based analytics project on Amazon product reviews, discounts, a
 | 7  | How many products have ≥ 50% discount?                                            | Filter logic on Discount column               |
 | 8  | What is the distribution of product ratings (e.g., 3.0, 4.0, etc.)?              | Grouped histogram with Pivot Count            |
 | 9  | Total potential revenue (actual_price × rating_count) per category?              | New Calculated Column + Pivot Table SUM       |
-| 10 | Unique product count per price range bucket (<₹200, ₹200–₹500, >₹500)?           | IF formulas + Donut Chart                     |
+| 10 | Unique product count per price range bucket (<200, 200–500, >500)?               | IF formulas + Donut Chart                     |
 | 11 | Relationship between rating and discount level?                                  | Scatter Line Chart (2 y-axes)                 |
 | 12 | How many products have fewer than 1,000 reviews?                                  | COUNTIF Formula + Bar Chart                   |
 | 13 | Categories with highest average discount?                                        | Sorted Pivot Table by Discount%               |
@@ -110,7 +110,7 @@ A detailed Excel-based analytics project on Amazon product reviews, discounts, a
 ## 👨‍💻 About Me
 
 **Oladipupo Abidemi Francis**  
-🎓 B.Ed in Mathematics | 📊 Data Analyst | 🎶 Worship Singer  
+🎓 B.Ed in Mathematics | 📊 Data Analyst 
 I’m passionate about simplifying data into impactful visuals and helping businesses make better decisions.  
 This project is a reflection of my journey in Excel-based analysis and business intelligence reporting.
 
